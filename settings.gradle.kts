@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Effix - Daily Plan"
 include(":app")
 include(":core:db")
+include(":feature:create:data")
